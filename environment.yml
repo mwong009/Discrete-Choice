@@ -1,0 +1,8 @@
+name: discrete-choice
+dependencies:
+    - python=3.9
+    - pip
+    - mkl-service
+    - conda-forge::cxx-compiler
+    - pip:
+      - pycmtensor

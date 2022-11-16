@@ -1,0 +1,26 @@
+Postcode: 4-Digit Postal Code
+age18_24: age between 18 and 24
+age25_34: age between 25 and 34
+age35_54: age between 35 and 54
+age_55: age over 55
+genderMale: dummy variable if male
+employed: dummy variable if employed
+selfEmployed: dummy variable if self-employed
+student: dummy variable if student
+eduLower: dummey variable if lower education level (VMBO, VGLO, Basis, etc.)
+eduMid: dummy variable if middle education level (HAVO, HBS, Gymnasium, etc.)
+eduUni: dummy variable if higher education level (Bachelor, Master, etc.)
+license: driver’s license possession
+commuteBike: dummy variable if used bike in regular commute
+commutePT: dummy variable if used PT (bus,tram,etc.) in regular commute
+commuteNS: dummy variable if used train in regular commute
+distWork: distance to work (in km)
+usedUber: dummy variable if respondent has used Uber in the past
+hhSize: total size of household
+hhChild: number of children in household
+nbrCarHH: number of cars in household
+incLevel_30k: dummy variable if income under 30k
+incLevel30_60k: dummy variable if income between 30 and 60k
+incLevel60k: dummy variable if income above 60k
+csMember: dummy variable if respondent has a car sharing membership (GO, Greenwheels, etc.)
+choice: selected mode choice {1: ownCar, 2:PT, 3:SAV, 4: carSharing, 5: taxi} (dependent variable)
