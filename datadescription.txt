@@ -10,7 +10,7 @@ student: dummy variable if student
 eduLower: dummey variable if lower education level (VMBO, VGLO, Basis, etc.)
 eduMid: dummy variable if middle education level (HAVO, HBS, Gymnasium, etc.)
 eduUni: dummy variable if higher education level (Bachelor, Master, etc.)
-license: driver�s license possession
+license: driver's license possession
 commuteBike: dummy variable if used bike in regular commute
 commutePT: dummy variable if used PT (bus,tram,etc.) in regular commute
 commuteNS: dummy variable if used train in regular commute
