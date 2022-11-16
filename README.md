@@ -1,1 +1,1 @@
-# Discrete-Choice
+# Discrete Choice
